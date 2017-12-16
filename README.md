@@ -1,2 +1,15 @@
-# IPMpack
-Extending IPMpack to include additional functionality and interface with the PADRINO and MADRINA Databases
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+IPMpack
+=======
+
+The goal of IPMpack is to make construction Integral Projection Models as easy possible. This is the beginning of version 3.0.0, with previous versions coming solely from C. Jessica Metcalf, Sean McMahon, Rob Salguero-Gomez, Eelke Jongejans, and Corey Merow.
+
+This is my attempt to modernize it and add some additional flexibility. This update is in its infancy and will likely take a while before it actually offers any real enhancements to the existing functionality. Currently, my goal is update the documentation and NAMESPACE with Roxygen and get unit tests written for most of this. After that, I will work on adding the additional functionality.
+
+Collaboration
+-------------
+
+I welcome any and all who wish to contribute to this effort. Please fork the repository, add your changes, and then create a pull request.
+
+The *Issues* and *Wiki* tabs are currently empty, but as I find time to add those, please feel free to work on them.
